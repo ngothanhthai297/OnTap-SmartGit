@@ -1,1 +1,1 @@
-Thao tác merget
+Thao tác merget và lỗi conflict khi pull
